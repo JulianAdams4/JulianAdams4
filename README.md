@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulianAdams4
 - 👀 I’m interested in web technologies like React, Angular and Vue and Pseudo-hybrid mobile frameworks like Ionic, ReactNative or NativeScript
-- 🌱 I’m currently learning backend frameworks like Flask and Nodejs
+- 🌱 I’m currently learning some Backend frameworks and DevOps in AWS
 - 💞️ I’m looking to collaborate on e-banking or real-time streaming projects!
 - 📫 How to reach me? Mail me right here!
 
