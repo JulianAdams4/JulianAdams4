@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m @JulianAdams4<br>👀 I’m interested in web technologies like React, Angular and Vue and Pseudo-hybrid mobile frameworks like Ionic, ReactNative or NativeScript<br>🌱 I’m currently learning some Backend frameworks and DevOps in AWS<br>💞️ I’m looking to collaborate on e-banking or real-time streaming projects!<br>📫 How to reach me? Mail me right here!
-
+👋 Hi, I'm @JulianAdams4<br>
+👀 I'm interested in web technologies like React, Angular or Vue and pseudo hybrid mobile frameworks like Ionic, ReactNative , NativeScript, Fluuter too!!!.<br>
+🌱 I'm currently learning some Backend frameworks and some DevOps on AWS.<br>
+💞️ I'd like to collaborate on projects about e-banking, streaming or crypto. If you have some weird technology, you have my attention.<br>
+📫 How to contact me, DM-me right [here](https://www.linkedin.com/in/jadams444)!<br><br>
 
 # 💻 Tech Stack:
 
